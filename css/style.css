@@ -25,15 +25,15 @@ p {
 
 #slide1 {
     background-position: center -75px;
-    background-image: url(slide1-bg.jpg);
+    background-image: url(../images/slide1-bg.jpg);
 }
 
 #slide2 {
-    background-image: url(slide2-bg.jpg);
+    background-image: url(../images/slide2-bg.jpg);
 }
 
 #slide3 {
-    background-image: url(slide3-bg.jpg);
+    background-image: url(../images/slide3-bg.jpg);
 }
 
 .slide_inside {
